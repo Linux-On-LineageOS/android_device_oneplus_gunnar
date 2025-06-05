@@ -70,3 +70,4 @@ $(call inherit-product, device/oneplus/sm6375-common/sm6375.mk)
 
 # Inherit from the proprietary files makefile.
 $(call inherit-product, vendor/oneplus/gunnar/gunnar-vendor.mk)
+$(call inherit-product, vendor/lindroid/lindroid.mk)
